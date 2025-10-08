@@ -4,5 +4,4 @@ I'm curently learning new skills...<br>
 Role: Software Engineer...<br>
 Fun Fact: I love traveling and reading manga's...<br>
 
-
-Hi , I am Siya
+HELLO, good evening .
